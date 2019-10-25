@@ -1,1 +1,2 @@
-"# HelloCompose" 
+Jetpack Compose series
+"HelloCompose" 
